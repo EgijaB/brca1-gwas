@@ -1,0 +1,8 @@
+genotypename:    aims.ped
+snpname:         aims.map
+indivname:       aims.ped
+outputformat:    EIGENSTRAT
+genotypeoutname: aims.eigenstratgeno
+snpoutname:      aims.snp
+indivoutname:    aims.ind
+familynames:     NO
